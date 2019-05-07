@@ -4,6 +4,13 @@
 
 *This repository is the collection of Kaggle projects. You are welcome to check out my side projects and course work in following repositories:*
 ### [Side_Projects](https://github.com/hsing-yi-wang/Side_Projects)
+  * Data Scraping by Scrapy and Beautiful Soup
+  * Natural Language Processing - Identify influential words to use for fund raising 
+### [Ucsc_Coursework](https://github.com/hsing-yi-wang/Ucsc_Coursework)
+  * Data Structure and Algorithm 
+  * Machine Learning and Data Modeling
+  * Deep Learning using Tensorflow
+  * IoT Big Data Processing using Spark
 
 ###### Open to suggestion: sywang0407@gmail.com
 
