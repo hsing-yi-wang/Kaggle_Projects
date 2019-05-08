@@ -19,6 +19,6 @@
 |Project Name         |Topics Covered             |Language         |Reference Link                 |
 |---------------------|---------------------------|:---------------:|-------------------------------|
 |**Elo Mechant Category Recommendation**|  |`R`|https://www.kaggle.com/c/elo-merchant-category-recommendation|
-|**What's Cooking?** |PCA, Text Processing, Logistic Regression|`Python`|https://www.kaggle.com/c/whats-cooking-kernels-only|
+|**What's Cooking?** |Text data processing, Logistic Regression, SVC, Esemble Model|`Python`|https://www.kaggle.com/c/whats-cooking-kernels-only|
 
 
